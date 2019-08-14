@@ -1,0 +1,706 @@
+S: current msg num:738, size:171
+S: slide_window_send finish!
+R: receive pkt_num:1057
+R: payload_size:58
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:23
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:121
+R: waiting packet in buffer!
+R: payload_size:47
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:121
+R: waiting packet in buffer!
+R: payload_size:18
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:121
+R: waiting packet in buffer!
+R: payload_size:71
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:22
+R: last pkt of a message !
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1058
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1059
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1060
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1062
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1063
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1064
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1065
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1066
+R: payload_size:95
+R: last pkt of a message !
+R: exit receiver_fromlowerlayer
+S: new message size:151
+S: current msg num:738, size:171
+S: slide_window_send finish!
+S: ack pkt num: 1057
+S: current msg num:738, size:171
+S: packet seq num: 1067, size: 121
+S: slide_window_send finish!
+S: ack pkt num: 1059
+S: current msg num:738, size:171
+S: packet seq num: 1068, size: 50
+S: current msg num:739, size:123
+S: packet seq num: 1069, size: 121
+S: slide_window_send finish!
+S: ack pkt num: 1060
+S: current msg num:739, size:123
+S: packet seq num: 1070, size: 2
+S: current msg num:740, size:91
+S: slide_window_send finish!
+S: ack pkt num: 1061
+S: current msg num:740, size:91
+S: packet seq num: 1071, size: 91
+S: current msg num:741, size:75
+S: slide_window_send finish!
+S: ack pkt num: 1062
+S: current msg num:741, size:75
+S: packet seq num: 1072, size: 75
+S: current msg num:742, size:47
+S: slide_window_send finish!
+S: ack pkt num: 1063
+S: current msg num:742, size:47
+S: packet seq num: 1073, size: 47
+S: current msg num:743, size:181
+S: slide_window_send finish!
+S: ack pkt num: 1064
+S: current msg num:743, size:181
+S: packet seq num: 1074, size: 121
+S: slide_window_send finish!
+S: ack pkt num: 1065
+S: current msg num:743, size:181
+S: packet seq num: 1075, size: 60
+S: current msg num:744, size:75
+S: slide_window_send finish!
+S: new message size:147
+S: current msg num:744, size:75
+S: slide_window_send finish!
+S: new message size:108
+S: current msg num:744, size:75
+S: slide_window_send finish!
+R: receive pkt_num:1067
+R: payload_size:121
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1069
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1070
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1071
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1072
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1075
+R: exit receiver_fromlowerlayer
+S: new message size:109
+S: current msg num:744, size:75
+S: slide_window_send finish!
+S: Time out!
+S: seq_num:1066, cur_msg_num:737, msg_cursor:0
+S: seq_num:1067, cur_msg_num:738, msg_cursor:0
+S: seq_num:1068, cur_msg_num:738, msg_cursor:121
+S: seq_num:1069, cur_msg_num:739, msg_cursor:0
+S: seq_num:1070, cur_msg_num:739, msg_cursor:121
+S: seq_num:1071, cur_msg_num:740, msg_cursor:0
+S: seq_num:1072, cur_msg_num:741, msg_cursor:0
+S: seq_num:1073, cur_msg_num:742, msg_cursor:0
+S: seq_num:1074, cur_msg_num:743, msg_cursor:0
+S: seq_num:1075, cur_msg_num:743, msg_cursor:121
+S: current msg num:737, size:95
+S: packet seq num: 1066, size: 95
+S: current msg num:738, size:171
+S: packet seq num: 1067, size: 121
+S: packet seq num: 1068, size: 50
+S: current msg num:739, size:123
+S: packet seq num: 1069, size: 121
+S: packet seq num: 1070, size: 2
+S: current msg num:740, size:91
+S: packet seq num: 1071, size: 91
+S: current msg num:741, size:75
+S: packet seq num: 1072, size: 75
+S: current msg num:742, size:47
+S: packet seq num: 1073, size: 47
+S: current msg num:743, size:181
+S: packet seq num: 1074, size: 121
+S: packet seq num: 1075, size: 60
+S: current msg num:744, size:75
+S: slide_window_send finish!
+S: new message size:32
+S: current msg num:744, size:75
+S: slide_window_send finish!
+R: receive pkt_num:1066
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1071
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1072
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1074
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1075
+R: exit receiver_fromlowerlayer
+S: new message size:64
+S: current msg num:744, size:75
+S: slide_window_send finish!
+S: new message size:126
+S: current msg num:744, size:75
+S: slide_window_send finish!
+S: Time out!
+S: seq_num:1066, cur_msg_num:737, msg_cursor:0
+S: seq_num:1067, cur_msg_num:738, msg_cursor:0
+S: seq_num:1068, cur_msg_num:738, msg_cursor:121
+S: seq_num:1069, cur_msg_num:739, msg_cursor:0
+S: seq_num:1070, cur_msg_num:739, msg_cursor:121
+S: seq_num:1071, cur_msg_num:740, msg_cursor:0
+S: seq_num:1072, cur_msg_num:741, msg_cursor:0
+S: seq_num:1073, cur_msg_num:742, msg_cursor:0
+S: seq_num:1074, cur_msg_num:743, msg_cursor:0
+S: seq_num:1075, cur_msg_num:743, msg_cursor:121
+S: current msg num:737, size:95
+S: packet seq num: 1066, size: 95
+S: current msg num:738, size:171
+S: packet seq num: 1067, size: 121
+S: packet seq num: 1068, size: 50
+S: current msg num:739, size:123
+S: packet seq num: 1069, size: 121
+S: packet seq num: 1070, size: 2
+S: current msg num:740, size:91
+S: packet seq num: 1071, size: 91
+S: current msg num:741, size:75
+S: packet seq num: 1072, size: 75
+S: current msg num:742, size:47
+S: packet seq num: 1073, size: 47
+S: current msg num:743, size:181
+S: packet seq num: 1074, size: 121
+S: packet seq num: 1075, size: 60
+S: current msg num:744, size:75
+S: slide_window_send finish!
+S: new message size:152
+S: current msg num:744, size:75
+S: slide_window_send finish!
+R: receive pkt_num:1066
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1067
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1068
+R: payload_size:50
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:121
+R: waiting packet in buffer!
+R: payload_size:2
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:91
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:75
+R: last pkt of a message !
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1069
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1072
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1073
+R: payload_size:47
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:121
+R: waiting packet in buffer!
+R: payload_size:60
+R: last pkt of a message !
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1074
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1075
+R: exit receiver_fromlowerlayer
+S: ack pkt num: 1068
+S: current msg num:744, size:75
+S: packet seq num: 1076, size: 75
+S: current msg num:745, size:63
+S: packet seq num: 1077, size: 63
+S: current msg num:746, size:99
+S: packet seq num: 1078, size: 99
+S: current msg num:747, size:23
+S: slide_window_send finish!
+S: ack pkt num: 1069
+S: current msg num:747, size:23
+S: packet seq num: 1079, size: 23
+S: current msg num:748, size:195
+S: slide_window_send finish!
+S: ack pkt num: 1070
+S: current msg num:748, size:195
+S: packet seq num: 1080, size: 121
+S: slide_window_send finish!
+S: ack pkt num: 1073
+S: current msg num:748, size:195
+S: packet seq num: 1081, size: 74
+S: current msg num:749, size:130
+S: packet seq num: 1082, size: 121
+S: packet seq num: 1083, size: 9
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: new message size:89
+S: current msg num:750, size:48
+S: slide_window_send finish!
+R: receive pkt_num:1078
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1080
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1081
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1082
+R: exit receiver_fromlowerlayer
+S: new message size:96
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: new message size:182
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: new message size:176
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: Time out!
+S: seq_num:1074, cur_msg_num:743, msg_cursor:0
+S: seq_num:1075, cur_msg_num:743, msg_cursor:121
+S: seq_num:1076, cur_msg_num:744, msg_cursor:0
+S: seq_num:1077, cur_msg_num:745, msg_cursor:0
+S: seq_num:1078, cur_msg_num:746, msg_cursor:0
+S: seq_num:1079, cur_msg_num:747, msg_cursor:0
+S: seq_num:1080, cur_msg_num:748, msg_cursor:0
+S: seq_num:1081, cur_msg_num:748, msg_cursor:121
+S: seq_num:1082, cur_msg_num:749, msg_cursor:0
+S: seq_num:1083, cur_msg_num:749, msg_cursor:121
+S: current msg num:743, size:181
+S: packet seq num: 1074, size: 121
+S: packet seq num: 1075, size: 60
+S: current msg num:744, size:75
+S: packet seq num: 1076, size: 75
+S: current msg num:745, size:63
+S: packet seq num: 1077, size: 63
+S: current msg num:746, size:99
+S: packet seq num: 1078, size: 99
+S: current msg num:747, size:23
+S: packet seq num: 1079, size: 23
+S: current msg num:748, size:195
+S: packet seq num: 1080, size: 121
+S: packet seq num: 1081, size: 74
+S: current msg num:749, size:130
+S: packet seq num: 1082, size: 121
+S: packet seq num: 1083, size: 9
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: new message size:24
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: new message size:89
+S: current msg num:750, size:48
+S: slide_window_send finish!
+R: receive pkt_num:1074
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1075
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1076
+R: payload_size:75
+R: last pkt of a message !
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1078
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1080
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1081
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1082
+R: exit receiver_fromlowerlayer
+S: new message size:62
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: Time out!
+S: seq_num:1074, cur_msg_num:743, msg_cursor:0
+S: seq_num:1075, cur_msg_num:743, msg_cursor:121
+S: seq_num:1076, cur_msg_num:744, msg_cursor:0
+S: seq_num:1077, cur_msg_num:745, msg_cursor:0
+S: seq_num:1078, cur_msg_num:746, msg_cursor:0
+S: seq_num:1079, cur_msg_num:747, msg_cursor:0
+S: seq_num:1080, cur_msg_num:748, msg_cursor:0
+S: seq_num:1081, cur_msg_num:748, msg_cursor:121
+S: seq_num:1082, cur_msg_num:749, msg_cursor:0
+S: seq_num:1083, cur_msg_num:749, msg_cursor:121
+S: current msg num:743, size:181
+S: packet seq num: 1074, size: 121
+S: packet seq num: 1075, size: 60
+S: current msg num:744, size:75
+S: packet seq num: 1076, size: 75
+S: current msg num:745, size:63
+S: packet seq num: 1077, size: 63
+S: current msg num:746, size:99
+S: packet seq num: 1078, size: 99
+S: current msg num:747, size:23
+S: packet seq num: 1079, size: 23
+S: current msg num:748, size:195
+S: packet seq num: 1080, size: 121
+S: packet seq num: 1081, size: 74
+S: current msg num:749, size:130
+S: packet seq num: 1082, size: 121
+S: packet seq num: 1083, size: 9
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: new message size:47
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: new message size:75
+S: current msg num:750, size:48
+S: slide_window_send finish!
+R: receive pkt_num:1074
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1076
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1077
+R: payload_size:63
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:99
+R: last pkt of a message !
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1078
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1079
+R: payload_size:23
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:121
+R: waiting packet in buffer!
+R: payload_size:74
+R: last pkt of a message !
+R: waiting packet in buffer!
+R: payload_size:121
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1080
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1082
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1083
+R: payload_size:9
+R: last pkt of a message !
+R: exit receiver_fromlowerlayer
+S: new message size:57
+S: current msg num:750, size:48
+S: slide_window_send finish!
+S: ack pkt num: 1077
+S: current msg num:750, size:48
+S: packet seq num: 1084, size: 48
+S: current msg num:751, size:41
+S: packet seq num: 1085, size: 41
+S: current msg num:752, size:66
+S: packet seq num: 1086, size: 66
+S: current msg num:753, size:103
+S: packet seq num: 1087, size: 103
+S: current msg num:754, size:131
+S: slide_window_send finish!
+S: ack pkt num: 1078
+S: current msg num:754, size:131
+S: packet seq num: 1088, size: 121
+S: slide_window_send finish!
+S: ack pkt num: 1079
+S: current msg num:754, size:131
+S: packet seq num: 1089, size: 10
+S: current msg num:755, size:199
+S: slide_window_send finish!
+S: ack pkt num: 1080
+S: current msg num:755, size:199
+S: packet seq num: 1090, size: 121
+S: slide_window_send finish!
+S: ack pkt num: 1081
+S: current msg num:755, size:199
+S: packet seq num: 1091, size: 78
+S: current msg num:756, size:59
+S: slide_window_send finish!
+S: ack pkt num: 1082
+S: current msg num:756, size:59
+S: packet seq num: 1092, size: 59
+S: current msg num:757, size:100
+S: slide_window_send finish!
+S: ack pkt num: 1083
+S: current msg num:757, size:100
+S: packet seq num: 1093, size: 100
+S: current msg num:758, size:50
+S: slide_window_send finish!
+S: new message size:18
+S: current msg num:758, size:50
+S: slide_window_send finish!
+S: new message size:81
+S: current msg num:758, size:50
+S: slide_window_send finish!
+R: receive pkt_num:1084
+R: payload_size:48
+R: last pkt of a message !
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1087
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1089
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1090
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1091
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1092
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1093
+R: exit receiver_fromlowerlayer
+S: new message size:108
+S: current msg num:758, size:50
+S: slide_window_send finish!
+S: ack pkt num: 1084
+S: current msg num:758, size:50
+S: packet seq num: 1094, size: 50
+S: current msg num:759, size:70
+S: slide_window_send finish!
+S: new message size:125
+S: current msg num:759, size:70
+S: slide_window_send finish!
+S: new message size:141
+S: current msg num:759, size:70
+S: slide_window_send finish!
+S: new message size:160
+S: current msg num:759, size:70
+S: slide_window_send finish!
+S: Time out!
+S: seq_num:1085, cur_msg_num:751, msg_cursor:0
+S: seq_num:1086, cur_msg_num:752, msg_cursor:0
+S: seq_num:1087, cur_msg_num:753, msg_cursor:0
+S: seq_num:1088, cur_msg_num:754, msg_cursor:0
+S: seq_num:1089, cur_msg_num:754, msg_cursor:121
+S: seq_num:1090, cur_msg_num:755, msg_cursor:0
+S: seq_num:1091, cur_msg_num:755, msg_cursor:121
+S: seq_num:1092, cur_msg_num:756, msg_cursor:0
+S: seq_num:1093, cur_msg_num:757, msg_cursor:0
+S: seq_num:1094, cur_msg_num:758, msg_cursor:0
+S: current msg num:751, size:41
+S: packet seq num: 1085, size: 41
+S: current msg num:752, size:66
+S: packet seq num: 1086, size: 66
+S: current msg num:753, size:103
+S: packet seq num: 1087, size: 103
+S: current msg num:754, size:131
+S: packet seq num: 1088, size: 121
+S: packet seq num: 1089, size: 10
+S: current msg num:755, size:199
+S: packet seq num: 1090, size: 121
+S: packet seq num: 1091, size: 78
+S: current msg num:756, size:59
+S: packet seq num: 1092, size: 59
+S: current msg num:757, size:100
+S: packet seq num: 1093, size: 100
+S: current msg num:758, size:50
+S: packet seq num: 1094, size: 50
+S: current msg num:759, size:70
+S: slide_window_send finish!
+S: new message size:46
+S: current msg num:759, size:70
+S: slide_window_send finish!
+R: receive pkt_num:1085
+R: payload_size:41
+R: last pkt of a message !
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1087
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1089
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1090
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1094
+R: exit receiver_fromlowerlayer
+S: new message size:190
+S: current msg num:759, size:70
+S: slide_window_send finish!
+S: new message size:159
+S: current msg num:759, size:70
+S: slide_window_send finish!
+S: Time out!
+S: seq_num:1085, cur_msg_num:751, msg_cursor:0
+S: seq_num:1086, cur_msg_num:752, msg_cursor:0
+S: seq_num:1087, cur_msg_num:753, msg_cursor:0
+S: seq_num:1088, cur_msg_num:754, msg_cursor:0
+S: seq_num:1089, cur_msg_num:754, msg_cursor:121
+S: seq_num:1090, cur_msg_num:755, msg_cursor:0
+S: seq_num:1091, cur_msg_num:755, msg_cursor:121
+S: seq_num:1092, cur_msg_num:756, msg_cursor:0
+S: seq_num:1093, cur_msg_num:757, msg_cursor:0
+S: seq_num:1094, cur_msg_num:758, msg_cursor:0
+S: current msg num:751, size:159
+S: packet seq num: 1085, size: 121
+S: packet seq num: 1086, size: 38
+S: current msg num:752, size:66
+S: packet seq num: 1087, size: 66
+S: current msg num:753, size:103
+S: packet seq num: 1088, size: 103
+S: current msg num:754, size:131
+S: packet seq num: 1089, size: 121
+S: packet seq num: 1090, size: 10
+S: current msg num:755, size:199
+S: packet seq num: 1091, size: 121
+S: packet seq num: 1092, size: 78
+S: current msg num:756, size:59
+S: packet seq num: 1093, size: 59
+S: current msg num:757, size:100
+S: packet seq num: 1094, size: 100
+S: current msg num:758, size:50
+S: slide_window_send finish!
+R: receive pkt_num:1085
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1087
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1088
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1091
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1092
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1093
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1094
+R: exit receiver_fromlowerlayer
+S: new message size:138
+S: current msg num:758, size:50
+S: slide_window_send finish!
+S: new message size:156
+S: current msg num:758, size:50
+S: slide_window_send finish!
+S: Time out!
+S: seq_num:1085, cur_msg_num:751, msg_cursor:0
+S: seq_num:1086, cur_msg_num:751, msg_cursor:121
+S: seq_num:1087, cur_msg_num:752, msg_cursor:0
+S: seq_num:1088, cur_msg_num:753, msg_cursor:0
+S: seq_num:1089, cur_msg_num:754, msg_cursor:0
+S: seq_num:1090, cur_msg_num:754, msg_cursor:121
+S: seq_num:1091, cur_msg_num:755, msg_cursor:0
+S: seq_num:1092, cur_msg_num:755, msg_cursor:121
+S: seq_num:1093, cur_msg_num:756, msg_cursor:0
+S: seq_num:1094, cur_msg_num:757, msg_cursor:0
+S: current msg num:751, size:159
+S: packet seq num: 1085, size: 121
+S: packet seq num: 1086, size: 38
+S: current msg num:752, size:138
+S: packet seq num: 1087, size: 121
+S: packet seq num: 1088, size: 17
+S: current msg num:753, size:156
+S: packet seq num: 1089, size: 121
+S: packet seq num: 1090, size: 35
+S: current msg num:754, size:131
+S: packet seq num: 1091, size: 121
+S: packet seq num: 1092, size: 10
+S: current msg num:755, size:199
+S: packet seq num: 1093, size: 121
+S: packet seq num: 1094, size: 78
+S: current msg num:756, size:59
+S: slide_window_send finish!
+R: receive pkt_num:1086
+R: payload_size:38
+R: waiting packet in buffer!
+R: payload_size:66
+R: waiting packet in buffer!
+R: payload_size:103
+R: waiting packet in buffer!
+R: payload_size:10
+R: waiting packet in buffer!
+R: payload_size:121
+R: waiting packet in buffer!
+R: payload_size:121
+R: waiting packet in buffer!
+R: payload_size:78
+R: waiting packet in buffer!
+R: payload_size:59
+R: waiting packet in buffer!
+R: payload_size:100
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1087
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1088
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1089
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1090
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1092
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1093
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1094
+R: exit receiver_fromlowerlayer
+S: new message size:59
+S: current msg num:756, size:59
+S: slide_window_send finish!
+S: new message size:84
+S: current msg num:756, size:59
+S: slide_window_send finish!
+S: ack pkt num: 1087
+S: current msg num:756, size:59
+S: packet seq num: 1095, size: 59
+S: current msg num:757, size:100
+S: packet seq num: 1096, size: 100
+S: current msg num:758, size:50
+S: packet seq num: 1097, size: 50
+S: current msg num:759, size:70
+S: slide_window_send finish!
+S: ack pkt num: 1090
+S: current msg num:759, size:70
+S: packet seq num: 1098, size: 70
+S: current msg num:760, size:168
+S: packet seq num: 1099, size: 121
+S: packet seq num: 1100, size: 47
+S: current msg num:761, size:123
+S: slide_window_send finish!
+S: ack pkt num: 1091
+S: current msg num:761, size:123
+S: packet seq num: 1101, size: 121
+S: slide_window_send finish!
+S: ack pkt num: 1092
+S: current msg num:761, size:123
+S: packet seq num: 1102, size: 2
+S: current msg num:762, size:88
+S: slide_window_send finish!
+S: ack pkt num: 1093
+S: current msg num:762, size:88
+S: packet seq num: 1103, size: 88
+S: current msg num:763, size:192
+S: slide_window_send finish!
+R: receive pkt_num:1095
+R: payload_size:59
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1097
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1098
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1099
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1100
+R: exit receiver_fromlowerlayer
+R: receive pkt_num:1101
+R: exit receiver_fromlowerlayer
+S: new message size:172
+S: current msg num:763, size:192
+S: slide_window_send finish!
+S: Time out!
+S: seq_num:1094, cur_msg_num:755, msg_cursor:121
+S: seq_num:1095, cur_msg_num:756, msg_cursor:0
+S: seq_num:1096, cur_msg_num:757, msg_cursor:0
+S: seq_num:1097, cur_msg_num:758, msg_cursor:0
+S: seq_num:1098, cur_msg_num:759, msg_cursor:0
+S: seq_num:1099, cur_msg_num:760, msg_cursor:0
+S: seq_num:1100, cur_msg_num:760, msg_cursor:121
+S: seq_num:1101, cur_msg_num:761, msg_cursor:0
+S: seq_num:1102, cur_msg_num:761, msg_cursor:121
+S: seq_num:1103, cur_msg_num:762, msg_cursor:0
+S: current msg num:755, size:84
+S: packet seq num: 1094, size: -37
